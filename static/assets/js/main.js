@@ -10,7 +10,7 @@ let videoEmbeds = [
 reframe(videoEmbeds.join(','));
 
 // Remove nav related classes on page load
-document.body.classList.remove('menu--opened', 'toc--opened'); 
+document.body.classList.remove('menu--opened', 'toc--opened');
 
 // Menu on small screens
 let menuToggle = document.querySelectorAll('.menu-toggle');
@@ -210,6 +210,4 @@ function anchorForId(id) {
   return anchor;
 }
 
-// Syntax Highlighter
-Prism.highlightAll();
 };
