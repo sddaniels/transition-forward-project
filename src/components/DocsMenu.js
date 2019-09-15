@@ -23,7 +23,7 @@ export default class DocsMenu extends React.Component {
                         let section_folder = _.get(site, 'data.doc_sections.root_folder') + section;
                         let section_page_path = section_folder + '/index.md';
                         let section_page = getPage(this.props.pageContext.pages, section_page_path);
-                        let child_pages = _.orderBy(_.filter(getPages(this.props.pageContext.pages, section_folder), item => _.get(item, 'base') != 'index.md'), 'frontmatter.weight');
+                        let child_pages = _.orderBy(_.filter(getPages(this.props.pageContext.pages, section_folder), item => _.get(item, 'base') !== 'index.md'), 'frontmatter.weight');
                         let child_count = _.size(child_pages);
                         let has_children = (child_count > 0) ? true : false;
                         let is_current_page = (_.get(page, 'relativePath') === _.get(section_page, 'relativePath')) ? true : false;

@@ -9,12 +9,12 @@ export default class Overview extends React.Component {
         return (
             <Layout {...this.props}>
               <header className="page-header bg-gradient outer">
-                {_.get(this.props, 'pageContext.frontmatter.img_path') && 
+                {_.get(this.props, 'pageContext.frontmatter.img_path') &&
                 <div className="bg-img" style={toStyleObj('background-image: url(\'' + safePrefix(_.get(this.props, 'pageContext.frontmatter.img_path')) + '\')')}/>
                 }
                 <div className="inner-small">
                   <h1 className="page-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
-                  {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
+                  {_.get(this.props, 'pageContext.frontmatter.subtitle') &&
                   <p className="page-subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
                   }
                 </div>
@@ -26,7 +26,7 @@ export default class Overview extends React.Component {
                         let section_folder = _.get(this.props, 'pageContext.site.data.doc_sections.root_folder') + section;
                         let section_page_path = section_folder + '/index.md';
                         let section_page = getPage(this.props.pageContext.pages, section_page_path);
-                        let child_pages = _.filter(getPages(this.props.pageContext.pages, section_folder), item => _.get(item, 'base') != 'index.md');
+                        let child_pages = _.filter(getPages(this.props.pageContext.pages, section_folder), item => _.get(item, 'base') !== 'index.md');
                         let child_count = _.size(child_pages);
                         let has_children = (child_count > 0) ? true : false;
                         return (<React.Fragment key={section_idx}>
