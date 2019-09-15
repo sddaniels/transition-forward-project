@@ -1,6 +1,3 @@
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; Transition Forward Project'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
 has_social: true
