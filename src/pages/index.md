@@ -4,14 +4,14 @@ sections:
   - section_id: hero
     component: HeroBlock
     type: heroblock
-    title: Hero Section
+    title: Introducing the<br/>Transition Forward Project
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Helping organizations create inclusive policies for transgender and gender
+      non-conforming employees
     actions:
-      - label: Get Started
-        url: docs/index.html
+      - label: Hear More Stories
+        url: stories
   - section_id: features
     component: FeaturesBlock
     type: featuresblock
