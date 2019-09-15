@@ -1,0 +1,30 @@
+{
+    "palette": "blue",
+    "palettes": {
+        "blue": {
+            "sass": {
+                "accent1": "#00c6ff",
+                "accent2": "#0072ff"
+            }
+        },
+        "green": {
+            "sass": {
+                "accent1": "#12db5d",
+                "accent2": "#11998e"
+            }
+        },
+        "navy": {
+            "sass": {
+                "accent1": "#004e92",
+                "accent2": "#000428"
+            }
+        },
+        "violet": {
+            "sass": {
+                "accent1": "#8e2de2",
+                "accent2": "#4a00e0"
+            }
+        }
+    },
+    "title": "Stackbit Libris Theme"
+}
