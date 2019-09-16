@@ -1,16 +1,10 @@
 {
     "main": [
         {
-            "identifier": "layouts",
-            "title": "Sample Layouts",
+            "identifier": "stories",
+            "title": "Stories",
             "url": "#",
-            "weight": 5
-        },
-        {
-            "identifier": "github",
-            "title": "GitHub",
-            "url": "https://github.com/",
-            "weight": 6
+            "weight": 2
         }
     ]
 }

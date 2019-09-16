@@ -94,9 +94,5 @@ sections:
     actions:
       - label: Get Started
         url: /docs/getting-started/installation.html
-menus:
-  main:
-    weight: 1
-    title: Home
 template: home
 ---
