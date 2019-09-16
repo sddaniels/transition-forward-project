@@ -12,16 +12,16 @@ export default class Header extends React.Component {
               <div className="inner">
                 <div className="site-header-inside">
                   <div className="site-branding">
-                    {_.get(this.props, 'pageContext.site.data.header.logo_img') && 
+                    {_.get(this.props, 'pageContext.site.data.header.logo_img') &&
                     <p className="site-logo">
                       <Link to={safePrefix(_.get(this.props, 'pageContext.site.data.header.url') || '/')}>
-                        <img src={safePrefix(_.get(this.props, 'pageContext.site.data.header.logo_img'))} alt="Logo" />
+                        <img src={safePrefix(_.get(this.props, 'pageContext.site.data.header.logo_img'))} alt="Transition Forward Project" />
                       </Link>
                     </p>
                     }
-                    {(_.get(this.props, 'pageContext.frontmatter.template') === 'home') ? 
+                    {(_.get(this.props, 'pageContext.frontmatter.template') === 'home') ?
                     <h1 className="site-title"><Link to={safePrefix(_.get(this.props, 'pageContext.site.data.header.url') || '/')}>{_.get(this.props, 'pageContext.site.data.header.title')}</Link></h1>
-                     : 
+                     :
                     <p className="site-title"><Link to={safePrefix(_.get(this.props, 'pageContext.site.data.header.url') || '/')}>{_.get(this.props, 'pageContext.site.data.header.title')}</Link></p>
                     }
                   </div>

@@ -7,8 +7,8 @@ sections:
     title: Introducing the<br/>Transition Forward Project
     image: images/5.jpg
     content: >-
-      Helping organizations create inclusive policies for transgender and gender
-      non-conforming employees
+      Helping companies and organizations create inclusive policies for
+      transgender and gender non-conforming employees
     actions:
       - label: Hear More Stories
         url: stories
@@ -16,83 +16,58 @@ sections:
     component: FeaturesBlock
     type: featuresblock
     featureslist:
-      - title: Documentation
+      - title: Take the Assessment
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          I don't know if these make sense here or not. They were just built
+          into this theme.
         actions:
           - label: Get Started
             url: docs/index.html
-      - title: Blog
+      - title: Improve Your Policies
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Trying them on for size to see if they could work out.
         actions:
-          - label: View Posts
-            url: blog/index.html
-      - title: Style Guides
+          - label: View Resources
+            url: resources
+      - title: Get Involved
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Can remove if we think they don't work.
         actions:
           - label: Learn More
-            url: /style-guide.html
-  - section_id: text-img
-    component: ContentBlock
-    type: contentblock
-    image: images/10.jpg
-    title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: View Demo
-        url: /docs/getting-started/index.html
-      - label: Get Started
-        url: /docs/getting-started/index.html
-  - section_id: features-two-col
-    component: FeaturesBlock
-    type: featuresblock
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
-    featureslist:
-      - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        actions:
-          - label: Learn More
-            url: /overview.html
-      - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /showcase.html
+            url: /#
   - section_id: cta
     component: CtaBlock
     type: ctablock
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Join Us On October 14th for A Free Transition Policy Workshop
+    subtitle: Get help creating a policy, have your existing policy reviewed, and more.
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      - label: Learn More
+        url: /#
+  - section_id: features-two-col
+    component: FeaturesBlock
+    type: featuresblock
+    title: Our Mission
+    subtitle: >-
+    featureslist:
+      - title: Develop Resources
+        content: >-
+          We create and maintain resources to help organizations write policies
+          and guidlelines that are inclusive of transgender and gender
+          non-conforming employees.
+      - title: Create Awareness
+        content: >-
+          We are a community working to raise awareness of why these policies
+          and guidelines are important.
   - section_id: text-no-img
     component: ContentBlock
     type: contentblock
-    title: A Section Without Image
+    title: Supporters
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation.html
+      Businesses are recognizing the need for inclusive policies. These
+      organizations are leading the charge with the Transition Forward Project.
+
+
+      <img src="images/logoipsum-3.svg" alt="LogoIpsum" style="max-width: 395px" />
+      <img src="images/logoipsum-5.svg" alt="LogoIpsum" style="max-width: 395px" />
 template: home
 ---
