@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: How to be an Ally
 excerpt: >-
   See some interesting tools developed by the Libris community to help automate
   parts of your workflow.

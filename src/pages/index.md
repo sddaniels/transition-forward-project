@@ -22,13 +22,13 @@ sections:
           into this theme.
         actions:
           - label: Get Started
-            url: docs/index.html
+            url: resources/assessment/
       - title: Improve Your Policies
         content: >-
           Trying them on for size to see if they could work out.
         actions:
           - label: View Resources
-            url: resources
+            url: resources/
       - title: Get Involved
         content: >-
           Can remove if we think they don't work.
@@ -42,7 +42,7 @@ sections:
     subtitle: Get help creating a policy, have your existing policy reviewed, and more.
     actions:
       - label: Learn More
-        url: /#
+        url: posts/2019-09-16-workshop/
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock

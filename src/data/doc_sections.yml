@@ -1,9 +1,9 @@
 root_folder: /resources/
 sections:
-  - about
-  - getting-started
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
+  - assessment
+  - policies
+  - benefits
+  - transition-plan
+  - ally
+  - leadership
+  - additional-resources

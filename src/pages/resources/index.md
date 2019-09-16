@@ -1,5 +1,5 @@
 ---
-title: About These Resources
+title: Introduction
 menus:
   main:
     weight: 1

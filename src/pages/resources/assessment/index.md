@@ -1,6 +1,7 @@
 ---
-title: Plug-ins
-weight: 2
+title: Workplace Assessment
+excerpt: >-
+  In this section you'll learn how to blah blah blah.
 template: docs
 ---
 
@@ -72,16 +73,26 @@ a:hover {
   text-decoration: none; }
 ```
 
+## Callouts
+
+There are two types of callouts availabale in this theme, **important** and **note**.
+
+<div class="important">
+  <strong>Important:</strong>
+  This is an "Important" callout block of text.
+  This block indicates a warning or caution.
+  Use it for an important message.
+</div>
+
+<div class="note">
+  <strong>Note:</strong>
+  This is an "Note" callout block of text.
+  This block signifies a general note or tip.
+</div>
+
 ## Tables
 
 You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-<pre>
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-</pre>
 
 | Title | Title |
 | ------| ----- |

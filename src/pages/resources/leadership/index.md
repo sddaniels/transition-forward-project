@@ -1,8 +1,8 @@
 ---
-title: UI Components
+title: Leaderhsip & Management
 excerpt: >-
-  To make it easy to write documentation in plain Markdown, most UI components
-  are styled using Markdown elements with few additional CSS classes.
+  See some interesting tools developed by the Libris community to help automate
+  parts of your workflow.
 template: docs
 ---
 

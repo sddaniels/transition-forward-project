@@ -1,8 +1,8 @@
 ---
-title: About
+title: Transition Planning
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+  To make it easy to write documentation in plain Markdown, most UI components
+  are styled using Markdown elements with few additional CSS classes.
 template: docs
 ---
 

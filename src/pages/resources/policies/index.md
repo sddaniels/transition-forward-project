@@ -1,6 +1,8 @@
 ---
-title: Getting Started
-excerpt: In this section you'll find basic information about Libris and how to use it.
+title: Policies
+excerpt: >-
+  Libris is a Unibit theme created for project documentations. You can use it
+  for your project.
 template: docs
 ---
 
