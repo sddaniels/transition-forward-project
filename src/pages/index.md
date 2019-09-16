@@ -46,6 +46,7 @@ sections:
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock
+    style: alt
     title: Our Mission
     subtitle: >-
     featureslist:

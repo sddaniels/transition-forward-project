@@ -394,9 +394,15 @@ img {
 
 /* Background gradient */
 .bg-gradient {
-  background: _palette(accent);
-  background: -webkit-linear-gradient(left,_palette(accent-alt), _palette(accent));
-  background: linear-gradient(to right, _palette(accent-alt), _palette(accent));
+  background: _palette(dark-blue);
+  background: -webkit-linear-gradient(left, _palette(light-blue), _palette(pink));
+  background: linear-gradient(to right, _palette(light-blue), _palette(pink));
+
+  &--alt {
+    background: _palette(dark-blue);
+    background: -webkit-linear-gradient(left, lighten(_palette(dark-blue), 7%), _palette(dark-blue));
+    background: linear-gradient(to right, lighten(_palette(dark-blue), 7%), _palette(dark-blue));
+  }
 }
 
 /* Background Image */
@@ -425,6 +431,12 @@ img {
     position: absolute;
     top: 0;
     width: 5px;
+  }
+
+  &--alt {
+    &:before {
+      background: _palette(pink);
+    }
   }
 }
 
