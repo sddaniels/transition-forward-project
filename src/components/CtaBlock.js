@@ -12,10 +12,15 @@ export default class CtaBlock extends React.Component {
                   <div className="block-inside">
                     <div className="block-content">
                       <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
+                      {_.get(this.props, 'section.tag') &&
+                        <h3 className="block-tag">
+                          {htmlToReact(_.get(this.props, 'section.tag'))}
+                        </h3>
+                      }
                       {_.get(this.props, 'section.subtitle') &&
-                      <p className="block-text">
-                        {htmlToReact(_.get(this.props, 'section.subtitle'))}
-                      </p>
+                        <p className="block-text">
+                          {htmlToReact(_.get(this.props, 'section.subtitle'))}
+                        </p>
                       }
                     </div>
                     {_.get(this.props, 'section.actions') &&

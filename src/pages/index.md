@@ -38,7 +38,8 @@ sections:
   - section_id: cta
     component: CtaBlock
     type: ctablock
-    title: Join Us On October 14th for A Free Transition Policy Workshop
+    title: Join Us on October 14th for a Free Transition Policy Workshop
+    tag: Des Moines, IA
     subtitle: Get help creating a policy, have your existing policy reviewed, and more.
     actions:
       - label: Learn More
