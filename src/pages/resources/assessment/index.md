@@ -1,100 +1,14 @@
 ---
-title: Workplace Assessment
+title: Workplace Self-Assessment
 excerpt: >-
   In this section you'll learn how to blah blah blah.
 template: docs
 ---
 
-<div class="note">
-  <strong>Note:</strong> This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
-
-### Syntax highlighting
-
-You can add a language identifier to enable syntax highlighting in your code block. For example, to highlight the **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
-
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
-
-The rendered output looks like this:
-
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-Or to highlight the **CSS** code, specify `css` next to the tick marks before the fenced code block:
-
-<pre>
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-</pre>
-
-The rendered output looks like this:
-
-```css
-body {
-  background: #fff;
-  color: #666;
-  line-height: 1.66667; }
-
-a {
-  color: #d4a259;
-  text-decoration: underline;
-  -webkit-transition: background .3s ease, color .3s ease;
-  transition: background .3s ease, color .3s ease; }
-
-a:hover {
-  color: #1d1d1d;
-  text-decoration: none; }
-```
-
-## Callouts
-
-There are two types of callouts availabale in this theme, **important** and **note**.
-
-<div class="important">
-  <strong>Important:</strong>
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution.
-  Use it for an important message.
-</div>
-
-<div class="note">
-  <strong>Note:</strong>
-  This is an "Note" callout block of text.
-  This block signifies a general note or tip.
-</div>
-
-## Tables
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
+This self-assessment is designed to help you determine where your organization
+sits right now, and what areas might be good to focus on improving. If you find
+many areas, that's okay, we all have to start somewhere. If you don't, that's
+great news! But don't take it as a certification that your organization is
+perfect. There are no perfect scores or failing grades, it isn't that kind
+of test. The results are completely private and only for you and your teammates
+to use and interpret.

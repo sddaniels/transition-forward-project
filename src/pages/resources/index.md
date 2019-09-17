@@ -7,14 +7,23 @@ menus:
 template: docs
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+Sometimes the hardest part of supporting transgender and gender non-conforming
+employees is simply knowing where to start. We're here to help! But you may be
+surprised that this collection of resources isn't what you expected when you
+first made your way here.
 
-***
+If you were thinking you'd dig into a set of strict guidelines or even a sample
+policy that you could cut and paste, well, you won't find those. We could do
+that but it almost certainly wouldn't work out well for us or for you! There
+just isn't a one-size-fits all solution. Every individual and every company
+is different, and that goes for trans folks too.
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
+Don't despair though! We're all in the same boat together as we learn. As each
+of us experiences successes and failures we discover a piece of the puzzle.
+Eventually common themes emerge and give us topics to think about and questions
+to answer. Only you can put in the work to find solutions that are flexible
+enough for your organization and your employees.
 
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus.
+**So let's grab our work boots and get started!**
 
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+<a href="/resources/assessment/" class="button">Take the Workplace Self-Assessment</a>
