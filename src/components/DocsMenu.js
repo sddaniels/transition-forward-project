@@ -13,7 +13,7 @@ export default class DocsMenu extends React.Component {
         return (
             <nav id="docs-nav" className="docs-nav">
               <div id="docs-nav-inside" className="docs-nav-inside sticky">
-                <button id="docs-nav-toggle" className="docs-nav-toggle">Navigate Docs<span className="icon-angle-right" aria-hidden="true" /></button>
+                <button id="docs-nav-toggle" className="docs-nav-toggle">Navigate Resources<span className="icon-angle-right" aria-hidden="true" /></button>
                 <div className="docs-toc-wrap">
                   <ul id="docs-toc" className="docs-toc">
                     <li className={classNames('toc-item', {'current': _.get(page, 'relativePath') === _.get(root_page, 'relativePath')})}>
