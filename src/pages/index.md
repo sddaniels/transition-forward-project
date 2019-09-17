@@ -9,6 +9,8 @@ sections:
     content: >-
       Helping companies and organizations create inclusive policies for
       transgender and gender non-conforming employees
+    video: >-
+      <iframe title="Introduction Video" width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     actions:
       - label: Hear More Stories
         url: stories

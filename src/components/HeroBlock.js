@@ -17,7 +17,9 @@ export default class HeroBlock extends React.Component {
                     <div className="block-text">
                       {markdownify(_.get(this.props, 'section.content'))}
                     </div>
-                    <iframe title="Introduction Video" width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    {_.get(this.props, 'section.video') &&
+                      htmlToReact(_.get(this.props, 'section.video'))
+                    }
                     {_.get(this.props, 'section.actions') &&
                       <div className="block-cta">
                         {_.map(_.get(this.props, 'section.actions'), (action, action_idx) => (
