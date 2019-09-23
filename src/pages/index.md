@@ -7,36 +7,7 @@ sections:
     title: Introducing the<br/>Transition Forward Project
     image: images/5.jpg
     content: >-
-      Helping companies and organizations create inclusive policies for
-      transgender and gender non-conforming employees
-    video: >-
-      <iframe title="Introduction Video" width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    actions:
-      - label: Hear More Stories
-        url: stories
-  - section_id: features
-    component: FeaturesBlock
-    type: featuresblock
-    featureslist:
-      - title: Take the Assessment
-        content: >-
-          I don't know if these make sense here or not. They were just built
-          into this theme.
-        actions:
-          - label: Get Started
-            url: resources/assessment/
-      - title: Improve Your Policies
-        content: >-
-          Trying them on for size to see if they could work out.
-        actions:
-          - label: View Resources
-            url: resources/
-      - title: Get Involved
-        content: >-
-          Can remove if we think they don't work.
-        actions:
-          - label: Learn More
-            url: /#
+      Building Trans Inclusive Businesses and Organizations
   - section_id: cta
     component: CtaBlock
     type: ctablock
@@ -62,16 +33,5 @@ sections:
         content: >-
           We are a community working to raise awareness of why these policies
           and guidelines are important.
-  - section_id: text-no-img
-    component: ContentBlock
-    type: contentblock
-    title: Supporters
-    content: >-
-      Businesses are recognizing the need for inclusive policies. These
-      organizations are leading the charge with the Transition Forward Project.
-
-
-      <img src="images/logoipsum-3.svg" alt="LogoIpsum" style="max-width: 395px" />
-      <img src="images/logoipsum-5.svg" alt="LogoIpsum" style="max-width: 395px" />
 template: home
 ---

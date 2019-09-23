@@ -2,10 +2,6 @@
 title: Stories
 subtitle: Inclusive Policies Benefit Everyone
 img_path: images/5.jpg
-menus:
-  main:
-    weight: 2
-    title: Stories
 sections:
   - section_id: hero
     component: HeroBlock
