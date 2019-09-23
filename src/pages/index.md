@@ -16,7 +16,7 @@ sections:
     subtitle: Get help creating a policy, have your existing policy reviewed, and more.
     actions:
       - label: Learn More
-        url: posts/2019-09-16-workshop/
+        url: posts/2019-09-23-workshop/
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock
