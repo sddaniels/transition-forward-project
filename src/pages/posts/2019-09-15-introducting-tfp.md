@@ -1,19 +1,41 @@
 ---
 title: Introducing the Transition Forward Project
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
-  accumsan vis phasellus adipiscing.
+  Have you thought about what you would do if a co-worker came out to you as
+  transgender? What would your company do? How would both a transitioning
+  employee and the rest of their team be supported?
 date: '2019-09-15'
-thumb_img_path: images/10.jpg
-content_img_path: images/10.jpg
+thumb_img_path:
+content_img_path:
 template: post
 ---
 
-**Vis accumsan feugiat** adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor.
+**Have you thought about what you would do if a co-worker came out to you as transgender? What would your company do? How would both a transitioning employee and the rest of their team be supported?**
 
-Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+While some companies have great plans and support in place, for a lot of folks (and companies) this is a difficult space to navigate, and one that is only negotiated when personal stakes are at their highest. If a company doesn’t have a plan in place and hasn’t communicated explicit support, transgender and gender non-conforming people may not even feel comfortable coming out at all in the workplace.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+We think there is an opportunity to do better, both in the tech/startup community, and in the Midwest. It’s not only the right thing to do &mdash; studies have shown that a more diverse and inclusive team leads to better company performance.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+## The Elevator Pitch
+
+The Transition Forward Project is about organizations taking the first step—or the next step—in developing guidance to support the gender expression of all employees, specifically those that are transgender, non-binary, gender non-conforming and those who decide to transition in the workplace. We’re advocates for nurturing company cultures that make employees feel comfortable bringing their best self to work.
+
+Data validates this: Diverse companies are 21% more likely to achieve above-average profits and companies with more culturally and ethnically diverse executive teams are 33% more likely to achieve better-than-average profits.
+
+Here’s more data:
+
+- 29% of transgender people live in poverty.
+- 30% of transgender people reported being fired, denied a promotion or experienced mistreatment in the workplace in the past 12 months.
+- 31% of transgender people experienced mistreatment in a public place in the past 12 months.
+
+How can we improve this? Let's put on our work boots and solve it together.
+
+## Our Mission
+
+### Develop Resources
+
+We will create and maintain resources to help organizations write policies and guidelines that are inclusive of transgender and gender non-conforming employees.
+
+### Create Awareness
+
+We will be a community working to raise awareness of why these policies and guidelines are important.

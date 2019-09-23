@@ -27,7 +27,7 @@ sections:
       - title: Develop Resources &nbsp;&nbsp;<span class="block-tag">Coming Soon</span>
         content: >-
           We create and maintain resources to help organizations write policies
-          and guidlelines that are inclusive of transgender and gender
+          and guidelines that are inclusive of transgender and gender
           non-conforming employees.
       - title: Create Awareness
         content: >-
