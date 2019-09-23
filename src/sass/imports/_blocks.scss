@@ -30,8 +30,9 @@
 }
 
 .block-tag {
-  font-size: .875rem;
-  line-height: 1.66667;
+  display: inline-block;
+  border-radius: 6px;
+  text-transform: uppercase;
 }
 
 .block-cta {
@@ -43,7 +44,7 @@
 
 /* Hero block */
 .hero-block {
-  color: #fff;
+  color: _palette(dark-blue);
   padding-bottom: 7.625em;
   padding-top: 3.75em;
   position: relative;
@@ -173,13 +174,12 @@
   }
 
   .block-tag {
-    display: inline-block;
     margin: .75rem 0 1.75rem 0;
     padding: 2px 12px;
+    font-size: .875rem;
+    line-height: 1.66667;
     color: _palette(dark-blue);
     background-color: _palette(mint);
-    border-radius: 25px;
-    text-transform: uppercase;
   }
 
   @media only screen and (min-width: 801px) {
@@ -276,6 +276,13 @@
     &:focus {
       color: _palette(meta);
     }
+  }
+
+  .block-tag {
+    padding: 2px 8px;
+    font-size: .75rem;
+    color: #fff;
+    background-color: _palette(dark-blue);
   }
 }
 

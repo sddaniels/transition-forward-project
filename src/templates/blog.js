@@ -11,12 +11,12 @@ export default class Blog extends React.Component {
         return (
             <Layout {...this.props}>
               <header className="page-header bg-gradient outer">
-                {_.get(this.props, 'pageContext.frontmatter.img_path') && 
+                {_.get(this.props, 'pageContext.frontmatter.img_path') &&
                 <div className="bg-img" style={toStyleObj('background-image: url(\'' + safePrefix(_.get(this.props, 'pageContext.frontmatter.img_path')) + '\')')}/>
                 }
                 <div className="inner-small">
                   <h1 className="page-title">{_.get(this.props, 'pageContext.frontmatter.title')}</h1>
-                  {_.get(this.props, 'pageContext.frontmatter.subtitle') && 
+                  {_.get(this.props, 'pageContext.frontmatter.subtitle') &&
                   <p className="page-subtitle">{_.get(this.props, 'pageContext.frontmatter.subtitle')}</p>
                   }
                 </div>
@@ -26,7 +26,7 @@ export default class Blog extends React.Component {
                   <div className="post-feed">
                     {_.map(display_posts, (post, post_idx) => (
                     <article key={post_idx} className="post">
-                      {_.get(post, 'frontmatter.thumb_img_path') && 
+                      {_.get(post, 'frontmatter.thumb_img_path') &&
                       <Link className="post-thumbnail" to={safePrefix(_.get(post, 'url'))}>
                         <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path'))} alt={_.get(post, 'frontmatter.title')} />
                       </Link>
@@ -35,7 +35,7 @@ export default class Blog extends React.Component {
                         <div className="post-meta">
                           <time className="published" dateTime={moment(_.get(post, 'frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}</time>
                         </div>
-                        <h2 className="post-title line-left"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h2>
+                        <h2 className="post-title line-left line-left--alt"><Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">{_.get(post, 'frontmatter.title')}</Link></h2>
                       </header>
                       {_.get(post, 'frontmatter.excerpt') && <React.Fragment>
                       <p className="post-excerpt">{_.get(post, 'frontmatter.excerpt')}</p>

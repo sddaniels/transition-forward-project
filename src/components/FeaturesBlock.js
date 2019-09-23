@@ -32,7 +32,7 @@ export default class FeaturesBlock extends React.Component {
                     {_.map(_.get(this.props, 'section.featureslist'), (feature, feature_idx) => (
                     <section key={feature_idx} className="block-item">
                       <div className="block-item-inside">
-                        <h3 className={getLineLeftClass()}>{_.get(feature, 'title')}</h3>
+                        <h3 className={getLineLeftClass()}>{htmlToReact(_.get(feature, 'title'))}</h3>
                         <div className="block-item-text">
                           {markdownify(_.get(feature, 'content'))}
                         </div>

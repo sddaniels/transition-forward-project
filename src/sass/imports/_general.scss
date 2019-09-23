@@ -395,8 +395,8 @@ img {
 /* Background gradient */
 .bg-gradient {
   background: _palette(mint);
-  background: -webkit-linear-gradient(left, _palette(light-blue), _palette(pink));
-  background: linear-gradient(to right, _palette(light-blue), _palette(pink));
+  background: -webkit-linear-gradient(left, _palette(light-cyan), _palette(light-cyan));
+  background: linear-gradient(to right, _palette(light-cyan), _palette(light-cyan));
 
   &--alt {
     background: _palette(dark-blue);

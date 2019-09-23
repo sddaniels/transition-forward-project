@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 subtitle: Providing a safe and welcoming environment for all who participate in this community.
-img_path: images/5.jpg
+img_path: 
 template: page
 ---
 ## Our Pledge

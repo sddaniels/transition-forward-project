@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------------
  */
  .site-header {
-  background: #fff;
+  background: _palette(light-cyan);
   padding-bottom: 1em;
   padding-top: 0.825em;
 }
@@ -61,7 +61,7 @@
   }
 
   .menu-item {
-    color: _palette(meta);
+    color: _palette(dark-blue);
     font-size: 1rem;
     line-height: 1.5;
     position: relative;
