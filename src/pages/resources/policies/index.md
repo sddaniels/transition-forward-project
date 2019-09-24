@@ -25,7 +25,7 @@ identity.
 - Do you have any all-gender or single occupancy bathrooms or changing rooms in your space? How many are there and where are they?
 - Do all employees know that they shouldn't question anyone's right to be in a bathroom or locker room?
 - How will you handle an employee and/or other tenants of a building that are uncomfortable with a transgender or gender non-conforming individual using the bathroom?
-- If you have any employees that go out into the field or into other people’s homes, how will you accommodate their bathroom and other facility needs?
+- If you have employees that work outside of a traditional office environment, how will you accommodate their bathroom and other facility needs?
 
 ## Discrimination, Bullying, and Harassment
 Existing policies and laws that apply to your workplace almost certainly state
@@ -77,7 +77,7 @@ that accurately reflects their identity.
 </div>
 
 ### Questions
-- Are you aware of the many different places in which a trans individual may need to change their gender marker?
+- Are you aware of the many different places in which a transitioning individual may need to change their gender marker?
   - State ID and/or driver's license
   - Passport
   - Social Security Administration
@@ -95,19 +95,18 @@ that accurately reflects their identity.
 
 ## Name Change
 
-Many, although not all, transgender employees will decide to change their name to
-more closely align with their gender identity.
+Many, although not all, transgender employees will decide to change their name.
 
 ### Questions
-- Legal name changes can be difficult, costly, and take a long time. Which internal records can be updated without a legal name change? Think about:
+- Legal name changes can be difficult, costly, and take a long time. Which internal records can be updated without a legal name change?
   - Badges and name tags
   - Staff directories and photos
   - Email addresses and signature blocks
   - Business cards
   - Physical nameplates on offices and desks
   - Instant messaging programs such as Slack
-- Do you already let employees use nicknames or shorter versions of their legal name at work? Would a trans individual's request be treated differently?
-- Do you make it harder for trans individuals to change their name than you would someone getting married and changing their name?
+- Do you already let employees use nicknames or shorter versions of their legal name at work? Would a transitioning individual's request be treated differently?
+- Do you make it harder for transitioning individuals to change their name than you would someone getting married and changing their name?
 
 ### Exernal Resources
 - Transgender Law Center &ndash; [Identity Documents Resources](https://transgenderlawcenter.org/resources/id)
