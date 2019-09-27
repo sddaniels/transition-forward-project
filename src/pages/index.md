@@ -7,13 +7,13 @@ sections:
     title: Introducing the<br/>Transition Forward Project
     image:
     content: >-
-      Building Trans Inclusive Businesses and Organizations
+      Building Transgender Inclusive Businesses and Organizations
   - section_id: cta
     component: CtaBlock
     type: ctablock
     title: Join Us on October 14th for a Free Transition Policy Workshop
     tag: Des Moines, IA
-    subtitle: Get help creating a policy, have your existing policy reviewed, and more.
+    subtitle: Get help creating a policy for employees making a gender transition, have your existing policies and guidelines reviewed, and more.
     actions:
       - label: Learn More
         url: posts/2019-09-23-workshop/
