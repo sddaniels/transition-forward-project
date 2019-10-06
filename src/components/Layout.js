@@ -11,10 +11,10 @@ export default class Body extends React.Component {
         const frontmatterTitle = _.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' | ';
         const siteTitle = _.get(this.props, 'pageContext.site.siteMetadata.title');
         const title = frontmatterTitle + siteTitle;
-
         const description = _.get(this.props, 'pageContext.frontmatter.excerpt') || _.get(this.props, 'pageContext.site.siteMetadata.metaDescription');
-        const location = this.props.location.origin + this.props.location.pathname;
-        const ogImage = this.props.location.origin + '/images/workshop-opengraph.jpg';
+        const origin = this.props.pageContext.site.siteMetadata.origin;
+        const location = origin + this.props.location.pathname;
+        const ogImage = origin + '/images/workshop-opengraph.jpg';
 
         return (
             <React.Fragment>
