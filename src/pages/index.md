@@ -4,8 +4,9 @@ sections:
   - section_id: hero
     component: HeroBlock
     type: heroblock
+    style: home
     title: Introducing the<br/>Transition Forward Project
-    image:
+    image: images/homepage-hero.svg
     content: >-
       Building Transgender Inclusive Businesses and Organizations
   - section_id: cta

@@ -418,6 +418,31 @@ img {
   position: absolute;
   right: 0;
   top: 0;
+
+  &--home {
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    @media only screen and (min-width: 1518px) {
+      background-position: center top;
+    }
+
+    @media only screen and (max-width: 1517px) {
+      background-position: center bottom;
+    }
+    @media only screen and (max-width: 1300px) {
+      background-position: center bottom 3.5em;
+    }
+
+    @media only screen and (max-width: 1210px) {
+      background-position: center bottom 4.625em;
+    }
+
+    @media only screen and (max-width: 790px) {
+      display: none;
+    }
+  }
 }
 
 /* Heading decoration */

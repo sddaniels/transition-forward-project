@@ -5,10 +5,15 @@ import {toStyleObj, safePrefix, markdownify, htmlToReact, Link} from '../utils';
 
 export default class HeroBlock extends React.Component {
     render() {
+      const getBgImgClass = () => {
+        return 'bg-img' +
+          (_.get(this.props, 'section.style') === 'home' ? ' bg-img--home' : '');
+      };
+
         return (
             <section id={_.get(this.props, 'section.section_id')} className="block hero-block bg-gradient outer">
               {_.get(this.props, 'section.image') &&
-              <div className="bg-img" style={toStyleObj('background-image: url(\'' + safePrefix(_.get(this.props, 'section.image')) + '\')')}/>
+              <div className={getBgImgClass()} style={toStyleObj('background-image: url(\'' + safePrefix(_.get(this.props, 'section.image')) + '\')')}/>
               }
               <div className="inner-small">
                 <div className="block-inside">
