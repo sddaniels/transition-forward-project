@@ -1,5 +1,4 @@
 ---
-title: Home
 sections:
   - section_id: hero
     component: HeroBlock
