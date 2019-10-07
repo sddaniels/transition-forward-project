@@ -1,7 +1,8 @@
 ---
 title: Policies
 excerpt: >-
-  Policies
+  In this section you will find information about workplace policies as they
+  relate to transgender and transitioning individuals.
 template: docs
 ---
 
@@ -23,9 +24,14 @@ identity.
 
 ### Questions
 - Do you have any all-gender or single occupancy bathrooms or changing rooms in your space? How many are there and where are they?
+- If you have a pair of single occupancy bathrooms that are labeled "Men" and "Women", can you change them both to be all-gender?
 - Do all employees know that they shouldn't question anyone's right to be in a bathroom or locker room?
 - How will you handle an employee and/or other tenants of a building that are uncomfortable with a transgender or gender non-conforming individual using the bathroom?
 - If you have employees that work outside of a traditional office environment, how will you accommodate their bathroom and other facility needs?
+
+### External Resources
+- <acronym title="American Medical Association">AMA</acronym> &ndash; [Talking points: Transgender individuals’ access to public facilities](https://www.ama-assn.org/media/43446/download) (PDF)
+- <acronym title="American Medical Association">AMA</acronym> &ndash; [Issue brief: Transgender individuals’ access to public facilities](https://www.ama-assn.org/media/43431/download) (PDF)
 
 ## Discrimination, Bullying, and Harassment
 Existing policies and laws that apply to your workplace almost certainly state
