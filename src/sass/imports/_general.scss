@@ -420,6 +420,8 @@ img {
   top: 0;
 
   &--home {
+    -webkit-animation: fadeInHero .75s ease-in-out;
+    animation: fadeInHero .75s ease-in-out;
     opacity: 0.5;
     background-repeat: no-repeat;
     background-size: 100%;

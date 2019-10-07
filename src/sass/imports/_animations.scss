@@ -18,3 +18,19 @@
     opacity: 0.15;
   }
 }
+@-webkit-keyframes fadeInHero {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
+@keyframes fadeInHero {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.5;
+  }
+}
