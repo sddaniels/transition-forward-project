@@ -33,7 +33,7 @@ and outlined in the [WPATH Standards of Care](https://www.wpath.org/publications
 
 ### Questions
 - What is your insurance carrier's clinical policy bulletin on transgender care?
-See examples at [Transcend Legal](https://transcendlegal.org/health-insurance-medical-policies)
+See examples at [Transcend Legal](https://transcendlegal.org/health-insurance-medical-policies).
 - Even if your carrier has a bulletin, does your insurance policy contract contain
 any coverage exclusions or limitations for transgender-specific treatment?
 - If there are coverage exclusions or limitations, will your insurance company treat
@@ -44,6 +44,9 @@ to reach out to an experienced benefits manager to determine available coverage?
 - Do HR staff know the details of the coverage that is available or where to find that
 information when asked?
 - Do employees and interviewing job candidates know what coverage is available to them through your organization?
+- Is there anything you can do as an organization to make the process of seeking care
+easier for those transitioning? For instance, can you assign a company advocate to help
+navigate insurance requirements and push back on denials of coverage?
 - What does your insurance plan specifically cover?
   - Mental health coverage
   - Hormone Replacement Therapy (HRT)
@@ -52,7 +55,7 @@ information when asked?
   - Voices lessons and voice therapy
   - Gender affirming surgeries
       - Top surgery (mastectomy or breast augmentation)
-      - Bottom surgery (hysterectomy, phalloplasty, orchiectomy, vaginoplasty)
+      - Bottom surgery (hysterectomy, phalloplasty, orchiectomy, vaginoplasty, etc.)
       - Facial feminization or masculinization surgery
       - Vocal modification surgery
       - Hair transplants
