@@ -15,12 +15,7 @@ to use and interpret.
 
 ## Benchmarks
 
-Take a moment to reflect on your organization and compare it to these benchmarks in each area.
-If you meet the benchmark for _Developing a Plan_, that can indicate
-that it's a good place you can start making an immediate impact. If you meet the
-benchmark for _Opportunity to Grow_, you are doing well but still have
-an opportunity to make meaningful improvements. If you meet the last benchmark, _Opportunity
-to Excel_, you can only excel if you continue to make improvements.
+Compare your organization to these benchmarks in each area:
 
 <table>
   <thead>
