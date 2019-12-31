@@ -27,6 +27,14 @@ Compare your organization to these benchmarks in each area:
   </thead>
   <tbody>
     <tr>
+      <th colspan="3">Company Culture</th>
+    </tr>
+    <tr>
+        <td>We always use gendered language and have only binary options on forms and other materials. When transgender issues come up, we focus on the discomfort that other employees may feel towards that topic.</td>
+        <td>We generally use non-gendered language and include non-binary identities in some places.</td>
+        <td>We always use non-gendered language and fully support non-binary identities. We focus on safety and inclusion rather than discomfort.</td>
+    </tr>
+    <tr>
       <th colspan="3">Facilities Access</th>
     </tr>
     <tr>
@@ -51,11 +59,11 @@ Compare your organization to these benchmarks in each area:
         of transgender, non-binary, and gender non-confirming individuals.
       </td>
       <td>
-        Harassment such as intentional and repeated misgendering is not
+        Harassment such as consistent, insistent, and intentional misgendering is not
         tolerated in the workplace.
       </td>
       <td>
-        Harassment such as intentional and repeated misgendering is not
+        Harassment such as consistent, insistent, and intentional misgendering is not
         tolerated in the workplace. All employees receive recurring Diversity
         and Inclusion training.
       </td>

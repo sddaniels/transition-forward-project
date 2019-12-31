@@ -18,11 +18,9 @@ sections:
       - title: Develop Resources &nbsp;&nbsp;<span class="block-tag">Coming Soon</span>
         content: >-
           We create and maintain resources to help organizations write policies
-          and guidelines that are inclusive of transgender and gender
-          non-conforming employees.
+          and guidelines that are inclusive of transgender and non-binary employees.
       - title: Create Awareness
         content: >-
-          We are a community working to raise awareness of why these policies
-          and guidelines are important.
+          We are a community working to raise awareness of why transgender and non-binary inclusive places of work are important.
 template: home
 ---
