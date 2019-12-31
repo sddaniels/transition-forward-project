@@ -12,9 +12,9 @@ could involve many aspects over a significant amount of time. Transition plannin
 and every transgender and non-binary person is different, as is each workplace and team that they work in.
 Regardless, it's important to have a plan so that changes go smoothly during what is most likely a very stressful time.
 
-## Transitioning
+## Introduction to Transitioning
 
-Consider all of these aspects that may change during a person's transition (not an exhaustive list):
+Consider all of these aspects that may change during a person's transition (this not an exhaustive list):
 
 - Name
 - Pronouns
@@ -22,18 +22,19 @@ Consider all of these aspects that may change during a person's transition (not 
 - Physical appearance
 - Manner of dress
 - Mannerisms
-- Habits
+- Habits and daily routine
 - Facilities usage
-- Interests
+- Interests made known to others
 - Group membership
 - Physical strength
-- Friends and family
+- Relationships with friends and family
 - Living situation
 - Time required away from work
-- Medically (not necessarily surgery)
-- Legally
+- Medical concerns (not necessarily surgery)
+- Legal concerns
 
-That said, it's important to remember that transitioning does not affect one's intelligence or job competency.
+That said, it's important to remember the things that transitioning does not affect. Do not make assumptions that an employee will have reduced competency in
+their role at work.
 
 ## Planning
 
@@ -53,7 +54,7 @@ That said, it's important to remember that transitioning does not affect one's i
   - How would you handle harassment from an external party?
   - How would you handle an employee that feels like a transitioning person might "look bad" to an external party?
 
-## "Post"-Transition
+## "Post" Transitioning
 
 In a lot of ways, transitioning never really ends. Transgender and non-binary folks are constantly meeting new people and encountering new
 situations that may require them to decide whether to disclose their history, how to disclose it, and the best way to do it. Even if they choose not to
