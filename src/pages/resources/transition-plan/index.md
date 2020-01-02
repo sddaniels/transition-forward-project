@@ -6,15 +6,15 @@ excerpt: >-
 template: docs
 ---
 
-Generally someone transitions at work because there is some aspect of how they interact with others at work that
-they would like to change. This could be as simple as a pronoun change (for example: from "he" to "they"), or it
-could involve many aspects over a significant amount of time. Transition planning is complex because each
-and every transgender and non-binary person is different, as is each workplace and team that they work in.
-Regardless, it's important to have a plan so that changes go smoothly during what is most likely a very stressful time.
+Transitioning is the process of changing aspects of one's self to match one's gender identity, which can have both social
+and medical facets. Every transgender and non-binary person is different, as is their workplace, so every transition is
+unique. It could be as simple as a pronoun change (for example: from "he" to "they"), or it could involve many changes. The
+timeline could be short or long. Regardless, it's important to have a plan so that the process goes smoothly during what is
+likely a stressful time.
 
-## Introduction to Transitioning
+## Aspects of Transitioning
 
-Consider all of these aspects that may change during a person's transition (this not an exhaustive list):
+Consider all of these aspects that may (or may not) change during a person's transition:
 
 - Name
 - Pronouns
@@ -30,24 +30,36 @@ Consider all of these aspects that may change during a person's transition (this
 - Relationships with friends and family
 - Living situation
 - Time required away from work
-- Medical concerns (not necessarily surgery)
+- Medical treatment (not necessarily surgery)
 - Legal concerns
 
-That said, it's important to remember the things that transitioning does not affect. Do not make assumptions that an employee will have reduced competency in
-their role at work.
+It's important not to make assumptions in any of these areas. Don't assume that someone will or will not make a certain change.
+Don't assume that changes will all happen on the same day or week. Don't assume that an employee will have reduced competency
+in their role at work after transitioning.
 
 ## Planning
 
+The goal of a transition plan is to spell out responsibilities, set expectations, and create a communications plan. It should
+be based on the needs and preferences of the transitioning person, as well as the needs of the organization. While planning,
+you should be able to reference the [policies](/resources/policies) and [benefits](/resources/benefits) that your company has in place.
+
 ### Questions
 
-- Are your organization's policies flexible enough to handle the fact that transitioning people will have different journeys and preferences?
-- How will the transition be communicated to the necessary parties?
-  - Who should be informed?
+- Are your organization's policies and guidelines flexible enough to handle the fact that transitioning people will have different journeys and preferences?
+- Who should be informed about the transition?
+  - This can range from a specific team or department to an entire small company.
+  - Who needs to know ahead of time in order to facilitate the transition plan?
+- How will the transition be communicated to the parties that need to know?
+  - Options include email, one-on-one, at a group meeting, etc.
 - How will leadership set expectations for employee behavior during and after a transition?
+  - How would you handle employees who vocally "don't agree" with the transitioning employee's choice?
+  - How would you handle a coworker that asks an inappropriate question?
 - What are ways to reduce the burden on the transitioning individual?
-  - Option not to be present during an announcement
+  - Option not to be present during any announcements
   - Offer to make sure that the transitioning individual is not along during intimidating situations such as the first step into an office after coming out
   - Have any relevant email signatures, badges, names, gender markers, photos, etc. updated ASAP according to the plan
+  - How will you handle questions or concerns from other employees?
+  - Is there a way that you can celebrate and share excitement with the person transitioning (for example, buying them cookies on their first day back)?
 - If the transitioning individual works with any external parties, how will they come out to those parties?
   - Consider: customers, clients, vendors, contractors, media contacts, regulators, other tenants in a shared office space
   - Will the transitioning individual have strong backing from the company?
@@ -59,7 +71,7 @@ their role at work.
 In a lot of ways, transitioning never really ends. Transgender and non-binary folks are constantly meeting new people and encountering new
 situations that may require them to decide whether to disclose their history, how to disclose it, and the best way to do it. Even if they choose not to
 disclose anything, they may still need to deal with the after effects of these situations. This can be especially true if one has
-encountered transphobia.
+encountered a transphobic situation.
 
 ### Questions
 

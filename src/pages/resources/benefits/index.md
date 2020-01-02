@@ -86,3 +86,14 @@ recovery from a major surgery.
 - Transitioning individuals may not wish to disclose details about why they are not
   at work if it's related to their transition. Have you created a culture where employees
   aren't required or expected to justify leave with personal details?
+
+## Other Benefits
+
+Consider any other benefits that may be gendered at your organization.
+
+### Questions
+
+- Does your parental leave policy cover trans men and non-binary parents who carried their child?
+- Could your parental leave policy cover any parent, regardless of gender or whether they are biologically related to their child?
+- Could your parental leave policy grant the same amount of time to parents of all genders?
+- Do your nursing rooms allow use by trans men and non-binary parents who need to nurse?
