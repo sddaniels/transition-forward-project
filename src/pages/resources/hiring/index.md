@@ -29,7 +29,7 @@ Posting a job listing is your first opportunity to make sure your organization i
 
 During the interview process, your organization has an opportunity to walk the talk when it comes to inclusion. However, it's often
 a concern that it's awkward or intrusive to ask a candidate their preferences when it comes to pronouns, etc. Instead, consider flipping
-the script and having interviewers introduce themselves with their own pronouns (example: "Hi, I'm Taylor, my pronouns are they/them/theirs).
+the script and having interviewers introduce themselves with their own pronouns (example: "Hi, I'm Taylor, my pronouns are they/them/theirs").
 This normalizes the exchange and gives the candidate a lead in to introduce their own pronouns.
 
 ## Onboarding

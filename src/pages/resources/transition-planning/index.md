@@ -9,8 +9,8 @@ template: docs
 Transitioning is the process of changing aspects of one's self to match one's gender identity, which can have both social
 and medical facets. Every transgender and non-binary person is different, as is their workplace, so every transition is
 unique. It could be as simple as a pronoun change (for example: from "he" to "they"), or it could involve many changes. The
-timeline could be short or long. Regardless, it's important to have a plan so that the process goes smoothly during what is
-likely a stressful time.
+timeline could be short or long. Regardless, it's important to have a workplace transition plan so that the process goes
+smoothly during what is likely a stressful time.
 
 ## Aspects of Transitioning
 
@@ -33,9 +33,13 @@ Consider all of these aspects that may (or may not) change during a person's tra
 - Medical treatment (not necessarily surgery)
 - Legal concerns
 
-It's important not to make assumptions in any of these areas. Don't assume that someone will or will not make a certain change.
-Don't assume that changes will all happen on the same day or week. Don't assume that an employee will have reduced competency
-in their role at work after transitioning.
+It's important not to make assumptions in any of these areas. A person's transition should be self-guided based on
+what that individual needs to feel whole. None of these changes mean that a person's job competency will be
+reduced.
+
+### Questions
+
+- Do employees know who it is safe to initially come out to?
 
 ## Planning
 
@@ -46,8 +50,11 @@ you should be able to reference the [policies](/resources/policies) and [benefit
 ### Questions
 
 - Are your organization's policies and guidelines flexible enough to handle the fact that transitioning people will have different journeys and preferences?
+- What is the timeline for the transition?
+  - How would you handle a transition that is weeks out versus a longer timeline? What if the timeline is a year or more?
+  - How would you handle a transition that happens all at once versus a transition that moves slowly with multiple milestones?
 - Who should be informed about the transition?
-  - This can range from a specific team or department to an entire small company.
+  - This can range from a specific team or department to an entire company if it is small enough.
   - Who needs to know ahead of time in order to facilitate the transition plan?
 - How will the transition be communicated to the parties that need to know?
   - Options include email, one-on-one, at a group meeting, etc.
