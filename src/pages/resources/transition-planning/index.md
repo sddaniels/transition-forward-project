@@ -34,8 +34,8 @@ Consider all of these aspects that may (or may not) change during a person's tra
 - Legal concerns
 
 It's important not to make assumptions in any of these areas. A person's transition should be self-guided based on
-what that individual needs to feel whole. None of these changes mean that a person's job competency will be
-reduced.
+what that individual needs to feel whole. They may not necessarily meet cultural expectations of any gender. None of
+these changes mean that a person's job competency will be reduced.
 
 ### Questions
 

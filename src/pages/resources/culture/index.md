@@ -17,6 +17,7 @@ marginalized employees in practice.
   - Language Example: Use "folks" instead of "ladies and gentlemen" since the latter excludes non-binary people.
   - Copywriting Example: Use "they" instead of "he or she" or alternating pronouns in promotional copy and policies.
   - Policy Example: Make your parental leave policy non-gendered.
+  - Culture Example: If a gender-nonconforming male employee wants to wear makeup, normalize it. Don't expect or require employees to dress, act, or otherwise meet cultural gender expectations.
 - How do you actively create and maintain your company culture?
   - How can you challenge people to take action on the words they say they value?
   - Can you give employees both positive and negative examples of specific behavior that relates to your values?
