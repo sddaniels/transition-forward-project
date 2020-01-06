@@ -8,7 +8,7 @@ template: docs
 
 Transitioning is the process of changing aspects of one's self to match one's gender identity, which can have both social
 and medical facets. Every transgender and non-binary person is different, as is their workplace, so every transition is
-unique. It could be as simple as a pronoun change (for example: from "he" to "they"), or it could involve many changes. The
+unique. It could be as simple as a pronoun change (for example: from "she" to "they"), or it could involve many changes. The
 timeline could be short or long. Regardless, it's important to have a workplace transition plan so that the process goes
 smoothly during what is likely a stressful time.
 
@@ -52,7 +52,7 @@ you should be able to reference the [policies](/resources/policies) and [benefit
 - Are your organization's policies and guidelines flexible enough to handle the fact that transitioning people will have different journeys and preferences?
 - What is the timeline for the transition?
   - How would you handle a transition that is weeks out versus a longer timeline? What if the timeline is a year or more?
-  - How would you handle a transition that happens all at once versus a transition that moves slowly with multiple milestones?
+  - How would you handle a transition that happens all at once versus a transition that moves methodically with multiple milestones?
 - Who should be informed about the transition?
   - This can range from a specific team or department to an entire company if it is small enough.
   - Who needs to know ahead of time in order to facilitate the transition plan?
@@ -76,11 +76,11 @@ you should be able to reference the [policies](/resources/policies) and [benefit
 ## "Post" Transitioning
 
 In a lot of ways, transitioning never really ends. Transgender and non-binary folks are constantly meeting new people and encountering new
-situations that may require them to decide whether to disclose their history, how to disclose it, and the best way to do it. Even if they choose not to
+situations that may require them to decide whether to disclose their history, how to disclose it, and what the risks are. Even if they choose not to
 disclose anything, they may still need to deal with the after effects of these situations. This can be especially true if one has
 encountered a transphobic situation.
 
 ### Questions
 
 - How can you make sure that a transitioning person continues to feel included and supported weeks, months, and years later?
-- How can you prevent tokenism that takes advantage of an employee for the organization's benefit?
+- How can you prevent [tokenism](https://www.catalystwedco.com/blog/2018/2/8/people-are-not-props-how-to-avoid-tokenism-in-your-portfolio) that takes advantage of an employee for the organization's benefit?

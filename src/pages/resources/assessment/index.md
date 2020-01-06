@@ -231,7 +231,7 @@ Compare your organization to these benchmarks in each area:
       </td>
     </tr>
     <tr>
-        <th colspan="3">Company Culture</th>
+        <th colspan="3">Organizational Culture</th>
     </tr>
     <tr>
         <td>We always use gendered language and have only binary options on forms and other materials. When transgender issues come up, we focus on the discomfort that other employees may feel towards that topic.</td>
