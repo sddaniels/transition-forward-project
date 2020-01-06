@@ -234,8 +234,8 @@ Compare your organization to these benchmarks in each area:
         <th colspan="3">Organizational Culture</th>
     </tr>
     <tr>
-        <td>We always use gendered language and have only binary options on forms and other materials. When transgender issues come up, we focus on the discomfort that other employees may feel towards that topic.</td>
-        <td>We generally use non-gendered language and include non-binary identities in some places.</td>
+        <td>We always use gendered language and have only binary options on forms and other materials. When transgender issues come up, we focus on the discomfort that employees and customers may feel towards that topic.</td>
+        <td>We typically use non-gendered language and include non-binary identities in some places. We are friendly to transgender and non-binary customers.</td>
         <td>We always use non-gendered language and fully support non-binary identities, including in our parental leave policy. We focus on safety and inclusion rather than discomfort.</td>
     </tr>
   </tbody>
