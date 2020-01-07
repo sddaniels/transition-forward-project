@@ -7,7 +7,7 @@ sections:
     title: Introducing the<br/>Transition Forward Project
     image: images/homepage-hero.svg
     content: >-
-      Building Transgender Inclusive Businesses and Organizations
+      Building Transgender and Non-Binary Inclusive Businesses and Organizations
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock
