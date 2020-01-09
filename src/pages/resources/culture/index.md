@@ -1,8 +1,7 @@
 ---
 title: Organizational Culture
 excerpt: >-
-  See some interesting tools developed by the Libris community to help automate
-  parts of your workflow.
+  In this section, you can read about how to build an inclusive workplace culture, how to be an ally, and tips for those in leadership and management roles.
 template: docs
 ---
 
@@ -17,7 +16,7 @@ marginalized employees in practice.
   - Language Example: Use "folks" instead of "ladies and gentlemen" since the latter excludes non-binary people.
   - Copywriting Example: Use "they" instead of "he or she" or alternating pronouns in promotional copy and policies.
   - Policy Example: Make your parental leave policy non-gendered.
-  - Culture Example: If a gender-nonconforming male employee wants to wear makeup, normalize it. Don't expect or require employees to dress, act, or otherwise meet cultural gender expectations.
+  - Culture Example: If a gender-nonconforming male employee wants to wear makeup, what would you do? Don't expect or require employees to dress, act, or otherwise meet cultural gender expectations.
 - How do you actively create and maintain your company culture?
   - How can you challenge people to take action on the words they say they value?
   - Can you give employees both positive and negative examples of specific behavior that relates to your values?
@@ -46,22 +45,22 @@ personally . In a world that can be unfriendly at best to transgender and non-bi
 
 - If you make a mistake about someone's name or pronoun, what would you do?
   - Example: If you accidentally use the wrong name for someone, correct yourself and apologize quickly and move on without making a big deal of it.
-  - Don't: Make an extensive apology and talk about how hard it is to change. This easily results in the transitioning individual feeling like a burden. Those that are transitioning generally **do** appreciate that it is hard to change. Your effort means the world to them.
-- Would you out someone (reveal their status as transgender, non-binary, or gay) without their permission?
+  - Don't: Make an extensive apology and talk about how hard it is to change. This easily results in the transitioning individual feeling like a burden. Those that are transitioning generally _do_ appreciate that it is hard to change. Your effort means the world to them.
+- Would you out someone (reveal their status as transgender, non-binary, or gay) without their permission? Can you think of ways to keep from doing this by accident?
 - Do you know the difference between an invasive question and one that is appropriate?
-  - Do: Continue to be friendly to the same extent you would have before you knew your coworker was transitioning.
+  - If you have a question about transgender or non-binary issues, can you think of ways to get an answer without going directly to the transitioning individual?
+  - Do: Continue to be friendly and ask work appropriate questions like you would any other coworker.
   - Don't: Ask about surgery topics, genitals, or sexual preference.
-- Do you know the words that it's best to avoid when talking about LGBTQ coworkers?
-  - Make sure you are not accidentally using a slur and do your best to not use words that are now considered offensive.
-  - The easiest way to get it right is to use the language that individuals say they prefer.
+  - Don't: Send news updates about persecution of trans or non-binary individuals without consent. Even if you are supportive, constant exposure can be hard to manage emotionally.
+- Do you know the words that it's best to avoid when talking about LGBTQ coworkers?.
+  - The easiest way to get it right is to use the language that individuals you interact with say they prefer.
 - If you see an transgender or non-binary individual being harassed, would you know what to do?
 - If you hear a negative myth or stereotype about LGBTQ people, would you say something?
 - What would you do if you heard an inappropriate joke about an LGBTQ coworker?
 - If a coworker is having trouble with another employee's transition, could you help them?
-- If you have a question about transgender or non-binary issues, how can you get an answer without going directly to the transitioning individual?
 - Do you know that gender and sexuality are separate?
   - Do: Use non-gendered language when asking about family or partners.
-  - Don't: Assume a certain sexuality for a person because they have transitioned.
+  - Don't: Assume a certain sexuality for a person because they have transitioned. This is also good advice in general.
 - How would you refer to a transgender or non-binary coworker in the past tense?
   - Do: Use the individuals current name and pronouns when referring to events in the past.
   - Don't: Use old names or pronouns because "that's who they were at the time."
@@ -77,9 +76,9 @@ difference, while a lack of support can enable bad behavior and harassment.
 
 - Would your leaders, managers, and HR personnel know what to do if someone came out to them?
 - Do your organizational leaders and managers have training on how to be supportive of transgender and non-binary employees?
-  - If they don't, who could you reach out to in order to provide it?
+  - If they don't, who could you reach out to in order to provide it?"troublemakers"
   - Could this training happen on a regular basis?
 - Does the leadership of your company know the benefits of having a diverse and inclusive workforce?
 - Do your leaders and managers actively listen to employees from marginalized groups and take action based on their feedback?
   - Do: If an individual from a marginalized group gives you feedback, it's because they trust you. Actively listen and validate how they feel even if you disagree with some aspects of the situation. You cannot dictate someone's feelings, they are real.
-  - Don't: Tell the individual they are overreacting and label them as "not team players" or "troublemakers". They are taking a risk and trying to make your organization better for everyone.
+  - Don't: Tell the individual they are overreacting and label them as "troublemakers" or "not team players". They are taking a personal risk to make your organization better for everyone.

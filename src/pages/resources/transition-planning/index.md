@@ -1,8 +1,8 @@
 ---
 title: Transition Planning
 excerpt: >-
-  To make it easy to write documentation in plain Markdown, most UI components
-  are styled using Markdown elements with few additional CSS classes.
+  In this section your will find information on how to support transitioning employees by creating a workplace
+  transition plan that spells out responsibilities, sets expectations, and outlines a communications strategy.
 template: docs
 ---
 

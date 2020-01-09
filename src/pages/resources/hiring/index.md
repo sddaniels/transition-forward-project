@@ -1,8 +1,7 @@
 ---
 title: Hiring
 excerpt: >-
-  See some interesting tools developed by the Libris community to help automate
-  parts of your workflow.
+  In this section you will find information on hiring, interviewing, and onboarding practices that are inclusive of transgender and non-binary people.
 template: docs
 ---
 
@@ -20,8 +19,8 @@ Posting a job listing is your first opportunity to make sure your organization i
   - Does it pass the [Joblint](https://joblint.org/) test for issues with sexism, culture, and expectations?
 - Does your application process allow for good faith applications by transgender and non-binary individuals?
   - A applicant's legal name may differ from the one they use on their application. They are not trying to hide anything from you, but rather provide an application that reflects who they are.
-  - Do not assume an applicant's gender based on the information that they submit or their appearance.
   - Do not ask for pronouns on your application if gender identity is a protected class in your area.
+  - What could go wrong if you assume an applicant's gender based on the information that they submit or their appearance?
 - Does your applicant tracking system support blind hiring (e.g. removing names before resumes are reviewed by hiring managers)?
 - Can applicants find information about your organization's inclusive policies and commitment to diversity online?
 

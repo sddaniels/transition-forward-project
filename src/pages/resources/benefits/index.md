@@ -96,4 +96,3 @@ Consider any other benefits that may be gendered at your organization.
 - Does your parental leave policy cover trans men and non-binary parents who carried their child?
 - Could your parental leave policy cover any parent, regardless of gender or whether they are biologically related to their child?
 - Could your parental leave policy grant the same amount of time to parents of all genders?
-- Do your nursing rooms allow use by trans men and non-binary parents who need to nurse?

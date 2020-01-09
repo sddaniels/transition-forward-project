@@ -2,7 +2,7 @@
 title: Policies
 excerpt: >-
   In this section you will find information about workplace policies as they
-  relate to transgender and transitioning individuals.
+  relate to transgender, non-binary, and transitioning individuals.
 template: docs
 ---
 
@@ -28,7 +28,7 @@ identity.
 - Do all employees know that they shouldn't question anyone's right to be in a bathroom or locker room?
 - How will you handle an employee and/or other tenants of a building that are uncomfortable with a transgender or non-binary individual using the bathroom?
 - If you have employees that work outside of a traditional office environment, how will you accommodate their bathroom and other facility needs?
-- Are nursing rooms available to any gender that
+- Do your nursing rooms allow use by trans men and non-binary parents who need to nurse?
 
 ### External Resources
 
@@ -105,11 +105,11 @@ workplace:
 
 ### Questions
 
-- Are pronouns separated from gender markers as much as possible in your system?
+- Are pronouns separated from gender markers as much as possible in your systems?
 - Which internal systems need to be updated by HR after a gender marker changes? What is the system of record for that change (e.g. state ID)?
 - What are the requirements for you to inform your health insurance company that a gender marker has changed?
 - If non-binary markers are available for your employees, such as "X", how will your systems and health insurance company handle it?
-- If an employee cannot change a gender marker in a certain way, how will you be able to accommodate them?
+- If an employee cannot change a gender marker in a certain way, how will you be able to accommodate them otherwise?
 - Are there any systems that can be updated without a legal gender marker change?
 - Are there any systems or paperwork that do not truly need a gender marker where it can be removed (e.g. an employee ID card)?
 
