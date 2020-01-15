@@ -1,5 +1,5 @@
 {
-  "extends": ["airbnb-base", "prettier"],
+  "extends": ["airbnb", "prettier", "prettier/react"],
   "plugins": ["prettier"],
   "env": {
     "jest": true
@@ -9,6 +9,7 @@
     "no-unused-expressions": [
       "error",
       { "allowShortCircuit": true, "allowTernary": true }
-    ]
+    ],
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }]
   }
 }
