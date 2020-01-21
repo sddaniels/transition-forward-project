@@ -39,7 +39,7 @@ marginalized employees in practice.
 
 You may have heard the word "ally" used in reference to certain groups, including LGBTQ folks. A simple way to identify an ally
 is to look for someone who is "sticking their neck out" by taking on a burden for a marginalized group that does not affect them
-personally . In a world that can be unfriendly at best to transgender and non-binary people, allies are worth their weight in gold.
+personally. In a world that can be unfriendly at best to transgender and non-binary people, allies are worth their weight in gold.
 
 ### Questions
 
@@ -52,7 +52,7 @@ personally . In a world that can be unfriendly at best to transgender and non-bi
   - Do: Continue to be friendly and ask work appropriate questions like you would any other coworker.
   - Don't: Ask about surgery topics, genitals, or sexual preference.
   - Don't: Send news updates about persecution of trans or non-binary individuals without consent. Even if you are supportive, constant exposure can be hard to manage emotionally.
-- Do you know the words that it's best to avoid when talking about LGBTQ coworkers?.
+- Do you know the words that it's best to avoid when talking about LGBTQ coworkers?
   - The easiest way to get it right is to use the language that individuals you interact with say they prefer.
 - If you see an transgender or non-binary individual being harassed, would you know what to do?
 - If you hear a negative myth or stereotype about LGBTQ people, would you say something?
@@ -76,7 +76,7 @@ difference, while a lack of support can enable bad behavior and harassment.
 
 - Would your leaders, managers, and HR personnel know what to do if someone came out to them?
 - Do your organizational leaders and managers have training on how to be supportive of transgender and non-binary employees?
-  - If they don't, who could you reach out to in order to provide it?"troublemakers"
+  - If they don't, who could you reach out to in order to provide it?
   - Could this training happen on a regular basis?
 - Does the leadership of your company know the benefits of having a diverse and inclusive workforce?
 - Do your leaders and managers actively listen to employees from marginalized groups and take action based on their feedback?

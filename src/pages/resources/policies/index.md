@@ -8,7 +8,7 @@ template: docs
 
 Workplace policies are a necessary part of any functioning organization, but for
 transgender and non-binary folks they can have a huge and lasting
-impact. Well considered and implemented policies can be a source of validation
+impact. Well-considered and implemented policies can be a source of validation
 and safety for those transitioning. On the other hand, policies that don't
 consider or reflect the needs of trans and non-binary employees can be actively harmful.
 
@@ -57,12 +57,12 @@ leadership and HR Department will have their back.
 
 ## Dress Code
 
-All employees employees should be allowed to wear clothing that matches their gender identity and gender expression.
+All employees should be allowed to wear clothing that matches their gender identity and gender expression.
 
 ### Questions
 
 - What is your dress code? Are all parts of the dress code necessary for employees to perform their job functions?
-- If you have a gender specific dress code, is it possible for you to make it gender neutral?
+- If you have a gender-specific dress code, is it possible for you to make it gender neutral?
 
 ## Employee Privacy
 
@@ -73,7 +73,7 @@ people that have already transitioned may be keeping that fact private.
 ### Questions
 
 - Is confidentiality assured if an individual decides to come out to someone at your organization (especially to leadership or management)?
-- What policies can potentially cover your employees in terms of the of privacy of their gender identity, status as transgender or non-binary, and/or sexuality?
+- What policies can potentially cover your employees in terms of the privacy of their gender identity, status as transgender or non-binary, and/or sexuality?
 - What are the laws and company policies that keep medical information private?
   - Asking about medical procedures or private parts should be off limits.
   - Voluntary over-sharing can cause problems as well when a precedent is set for other employees. Employees should not feel like they need to share details of their own medical situation (trans or otherwise).
@@ -133,6 +133,6 @@ Many, although not all, transitioning employees will decide to change their name
 - Do you already let employees use nicknames or shorter versions of their legal name at work? Would a transitioning individual's request be treated differently?
 - Do you make it harder for transitioning individuals to change their name than you would someone getting married and changing their name?
 
-### Exernal Resources
+### External Resources
 
 - Transgender Law Center &ndash; [Identity Documents Resources](https://transgenderlawcenter.org/resources/id)

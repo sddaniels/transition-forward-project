@@ -63,7 +63,7 @@ you should be able to reference the [policies](/resources/policies) and [benefit
   - How would you handle a coworker that asks an inappropriate question?
 - What are ways to reduce the burden on the transitioning individual?
   - Option not to be present during any announcements
-  - Offer to make sure that the transitioning individual is not along during intimidating situations such as the first step into an office after coming out
+  - Offer to make sure that the transitioning individual is not alone during intimidating situations such as the first step into an office after coming out
   - Have any relevant email signatures, badges, names, gender markers, photos, etc. updated ASAP according to the plan
   - How will you handle questions or concerns from other employees?
   - Is there a way that you can celebrate and share excitement with the person transitioning (for example, buying them cookies on their first day back)?
