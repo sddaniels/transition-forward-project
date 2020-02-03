@@ -16,7 +16,7 @@ of test. The results are only for you and your teammates to use and interpret in
 
 Compare your organization to these benchmarks in each area:
 
-<table>
+<table class="assessment-table">
   <thead>
     <tr>
       <th>Developing a Plan</th>
@@ -25,7 +25,7 @@ Compare your organization to these benchmarks in each area:
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Facilities Access</th>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ Compare your organization to these benchmarks in each area:
         restroom is harassment.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Discrimination, Bullying, &amp; Harassment</th>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ Compare your organization to these benchmarks in each area:
         and Inclusion training.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Dress Code</th>
     </tr>
     <tr>
@@ -76,7 +76,7 @@ Compare your organization to these benchmarks in each area:
         to their gender expression.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Employee Privacy</th>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ Compare your organization to these benchmarks in each area:
         training.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Gender Marker Changes</th>
     </tr>
     <tr>
@@ -115,7 +115,7 @@ Compare your organization to these benchmarks in each area:
         are available.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Name Changes</th>
     </tr>
     <tr>
@@ -132,7 +132,7 @@ Compare your organization to these benchmarks in each area:
         easy for transitioning individuals to update their name.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Health Insurance</th>
     </tr>
     <tr>
@@ -150,7 +150,7 @@ Compare your organization to these benchmarks in each area:
         work with the insurance company to get the care that they need covered.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Medical Leave</th>
     </tr>
     <tr>
@@ -169,7 +169,7 @@ Compare your organization to these benchmarks in each area:
         justify time away from work (unless otherwise required by FMLA).
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Transition Planning</th>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ Compare your organization to these benchmarks in each area:
         workplace and they know who they can come to for help.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Leadership &amp; Management</th>
     </tr>
     <tr>
@@ -208,7 +208,7 @@ Compare your organization to these benchmarks in each area:
         inclusive for all.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
       <th colspan="3">Hiring</th>
     </tr>
     <tr>
@@ -229,7 +229,7 @@ Compare your organization to these benchmarks in each area:
         shared with the candidates as part of introductions.
       </td>
     </tr>
-    <tr>
+    <tr class="assessment-table__row-header">
         <th colspan="3">Organizational Culture</th>
     </tr>
     <tr>

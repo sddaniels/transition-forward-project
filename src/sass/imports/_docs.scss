@@ -67,7 +67,7 @@
     box-sizing: border-box;
     padding: 2.5em 0;
   }
-  
+
   .post-title {
     font-size: 1.875rem;
     margin: 0 0 2.5rem;
@@ -185,12 +185,12 @@
   &.has-children {
     padding-right: 30px;
     position: relative;
-  
+
     &.active {
       .toc-submenu {
         display: block;
       }
-  
+
       & > .submenu-toggle {
         .icon-angle-right {
           -webkit-transform: rotate(135deg);
@@ -261,7 +261,7 @@
     overflow: hidden;
   }
 
-  .docs-nav,  
+  .docs-nav,
   .page-nav {
     -webkit-flex-shrink: 0;
     -ms-flex-negative: 0;
@@ -335,7 +335,7 @@
   .post.type-docs {
     .post-title,
     .post-content {
-      padding: 0 2.25rem;
+      padding: 0 1.5rem;
     }
   }
 }
