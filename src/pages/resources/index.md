@@ -1,5 +1,9 @@
 ---
 title: Introduction
+menus:
+  main:
+    weight: 2
+    title: Resources
 template: docs
 ---
 

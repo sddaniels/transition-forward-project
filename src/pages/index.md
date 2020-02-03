@@ -8,6 +8,9 @@ sections:
     image: images/homepage-hero.svg
     content: >-
       Building Transgender and Non-Binary Inclusive Businesses and Organizations
+    actions:
+      - label: View Resources
+        url: resources
   - section_id: features-two-col
     component: FeaturesBlock
     type: featuresblock
@@ -15,7 +18,7 @@ sections:
     title: Our Mission
     subtitle: >-
     featureslist:
-      - title: Develop Resources &nbsp;&nbsp;<span class="block-tag">Coming Soon</span>
+      - title: Develop Resources
         content: >-
           We create and maintain resources to help organizations write policies
           and guidelines that are inclusive of transgender and non-binary employees.
