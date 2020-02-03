@@ -25,7 +25,7 @@ identity.
 
 - Do you have any all-gender or single occupancy bathrooms or changing rooms in your space? How many are there and where are they?
 - If you have a pair of single occupancy bathrooms that are labeled "Men" and "Women", can you change them both to be all-gender?
-- Do all employees know that they shouldn't question anyone's right to be in a bathroom or locker room?
+- Do all employees know that their behavior in bathroom and locker rooms is governed by the organizational harassment policy, including questioning someone’s right to use that facility?
 - How will you handle an employee and/or other tenants of a building that are uncomfortable with a transgender or non-binary individual using the bathroom?
 - If you have employees that work outside of a traditional office environment, how will you accommodate their bathroom and other facility needs?
 - Do your nursing rooms allow use by trans men and non-binary parents who need to nurse?
@@ -49,7 +49,8 @@ leadership and HR Department will have their back.
 - If your organization has multiple locations, do these laws vary across locations?
 - What is covered by your policies in terms of transgender and non-binary individuals?
   - Is consistent, insistent, and intentional misgendering (using the incorrect pronouns or name) considered harassment?
-  - Is questioning someone’s right to be in a bathroom or locker room considered harassment?
+  - What would happen if a transgender or non-binary employee had their right to use a bathroom or locker room questioned by a coworker? Would this be considered harassment?
+  - What would happen if an employee who’s gender presentation doesn’t align with traditional expectations had their right to use a bathroom or locker room questioned by a coworker (e.g. a female employee with very short hair)? How can your policies protect all employees by being inclusive?
 
 ### External Resources
 
@@ -74,14 +75,18 @@ people that have already transitioned may be keeping that fact private.
 
 - Is confidentiality assured if an individual decides to come out to someone at your organization (especially to leadership or management)?
 - What policies can potentially cover your employees in terms of the privacy of their gender identity, status as transgender or non-binary, and/or sexuality?
+  - Don't: Out someone without their permission.
 - What are the laws and company policies that keep medical information private?
-  - Asking about medical procedures or private parts should be off limits.
-  - Voluntary over-sharing can cause problems as well when a precedent is set for other employees. Employees should not feel like they need to share details of their own medical situation (trans or otherwise).
+- Asking about medical procedures or other physical changes should be off limits.
+  - Don’t: Ask whether someone has had “the surgery.” This question is both inaccurate and inappropriate.
+  - Do: Continue to give appropriate compliments such as “I like your haircut,” or “I love those shoes.”
+- Voluntary over-sharing can cause problems as well when a precedent is set for other employees. Employees should not feel like they need to share details of their own medical situation (trans, non-binary, or otherwise).
 - What are the company policies in place regarding other questions that are inappropriate for the workplace?
-  - Any questions that are inappropriate to be asked of non-transgender employees are still inappropriate if asked to trans or non-binary employees.
+  - Any questions that are inappropriate to be asked of cisgender employees are still inappropriate if asked to trans or non-binary employees.
 
 ## Gender Markers
 
+A gender marker is an indication of someone’s gender on an official record, commonly “F”, “M”, or “X”.
 Gender marker changes can be complicated and time consuming because there is no one
 system of record in the United States. There are often roadblocks depending on the state
 of residence or birth, and non-binary folks often don't have a choice of gender marker
